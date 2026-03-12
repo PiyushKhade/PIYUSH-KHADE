@@ -128,19 +128,7 @@ Features:
 Tech:
 JavaScript • DOM Manipulation
 
----
-
-# 💼 Work Experience
-
-Business Analyst  
-Lighthouse Info Systems Pvt Ltd
-
-- Worked with enterprise resource systems
-- Investigated backend issues using SQL
-- Collaborated with clients to gather requirements
-- Delivered technical solutions under tight deadlines
-
----
+---------------------
 
 # 🌱 Currently Learning
 
